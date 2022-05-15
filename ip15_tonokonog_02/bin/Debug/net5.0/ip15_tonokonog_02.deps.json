@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ip15_tonokonog_02/1.0.0": {
+        "runtime": {
+          "ip15_tonokonog_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ip15_tonokonog_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
