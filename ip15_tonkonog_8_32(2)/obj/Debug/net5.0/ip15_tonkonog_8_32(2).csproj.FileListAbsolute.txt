@@ -1,0 +1,16 @@
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).exe
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).deps.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).runtimeconfig.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\bin\Debug\net5.0\ip15_tonkonog_8_32(2).pdb
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\refint\ip15_tonkonog_8_32(2).dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).pdb
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ip15_tonkonog_8_32(2).genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonog_8_32(2)\obj\Debug\net5.0\ref\ip15_tonkonog_8_32(2).dll
