@@ -1,0 +1,16 @@
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.exe
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.deps.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.runtimeconfig.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\bin\Debug\net5.0\ip15_tonkonoh_9.pdb
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\refint\ip15_tonkonoh_9.dll
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.pdb
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ip15_tonkonoh_9.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\ip15_tonokonog_02\ip15_tonkonoh_9\obj\Debug\net5.0\ref\ip15_tonkonoh_9.dll

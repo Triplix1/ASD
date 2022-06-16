@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ip15_tonkonog_8_32(2)", "ip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip15_tonkonog_7_32(2)", "ip15_tonkonog_7_32(2)\ip15_tonkonog_7_32(2).csproj", "{00B46270-53A5-4A25-A1CA-FD688CA8164A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip15_tonkonoh_9", "ip15_tonkonoh_9\ip15_tonkonoh_9.csproj", "{C8FDA170-C228-4D83-92CF-F524D43ECA4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{00B46270-53A5-4A25-A1CA-FD688CA8164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00B46270-53A5-4A25-A1CA-FD688CA8164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00B46270-53A5-4A25-A1CA-FD688CA8164A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FDA170-C228-4D83-92CF-F524D43ECA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FDA170-C228-4D83-92CF-F524D43ECA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FDA170-C228-4D83-92CF-F524D43ECA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FDA170-C228-4D83-92CF-F524D43ECA4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
